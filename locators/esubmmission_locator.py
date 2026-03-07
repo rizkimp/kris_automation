@@ -9,7 +9,7 @@ class EsubmissionLocator:
     button_add_recent_folder = "#addBtn"
     button_add_step = "Add Step"
     dropdown_approval_type = "#approvalTypeId"
-    select_for_approval = "For Approval
+    select_for_approval = "For Approval"
     button_add_routing = "#addBtn"
     button_submit = "Submit"
     
