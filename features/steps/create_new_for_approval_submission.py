@@ -1,5 +1,5 @@
-from behave import when
-from pages.login_page import LoginPage
+from behave import given,when,then
+from pages.esubmission_page import EsubmissionPage
 
 @given(u'user is on the "E-submission" module')
 def step_impl(context):
