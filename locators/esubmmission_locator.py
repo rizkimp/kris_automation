@@ -10,6 +10,12 @@ class EsubmissionLocator:
     button_add_step = "Add Step"
     dropdown_approval_type = "#approvalTypeId"
     select_for_approval = "For Approval"
+    input_action_officer = ".select2-search__field"
+    action_officer = "T2User5"
+    select_designation = "Account Manager"
+    button_add_designation = "#addSDBtn"
     button_add_routing = "#addBtn"
     button_submit = "Submit"
+    button_terminate = "Terminate"
+    termination_reason = "Enter comments ( required )"
     
